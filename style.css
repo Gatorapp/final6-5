@@ -260,7 +260,7 @@ html {
     height: 494px;
 }
 .quality__textcontent {
-   
+   color: red;
     padding: 32px 0;
 }
 .quality__subheading {
